@@ -1,0 +1,13 @@
+{
+  "last_name": "Иванов",
+  "first_name": "Иван",
+  "middle_name": "Иванович",
+  "birth_date": "1990-05-15",
+  "email": "ivanov@example.com",
+  "phone": "+79001234567",
+  "problem_types": [
+    "no_connection",
+    "phone_issue"
+  ],
+  "problem_at": "2024-01-15T10:30:00"
+}
